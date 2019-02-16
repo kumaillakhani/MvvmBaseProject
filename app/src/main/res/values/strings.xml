@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvvmBaseProject</string>
+    <string name="txt_Done">Done</string>
+</resources>
